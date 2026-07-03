@@ -74,7 +74,7 @@ fitness-booking-api/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MandeepChauhan9756/fitness-booking-api.git
 cd fitness-booking-api
 ```
 
